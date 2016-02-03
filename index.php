@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<div class="updates-marquee"> <div class="container"><marquee>Stay tuned for latest updates on Enroute thursdays, Indore. Updates on next jam will be displayed shortly.</marquee></div></div>
+<div class="updates-marquee"> <div class="container"><marquee>Open jam session vol II to be held on 7th Feb 16. Click <a href="register.php">here</a> for free registration.</marquee></div></div>
 			<!----- banner ------>
 			<div class="banner">
 				<div class="container">
